@@ -1,0 +1,76 @@
+.login, .login_h, .logo, .typo, .comment, .comment_h, .contact, .contact_h, .faq, .faq_q, .help, .help_h{
+	background: url(../img/images/sprites.png) no-repeat;
+}
+
+.login{
+	background-position: -597.0000152587891px 0;
+	/*width: 144px;*/
+	/*height: 150px;*/
+}
+
+.login.active{
+	background-position: -597.0000610351562px -198.99999618530273px ;
+	/*width: 144px;*/
+	/*height: 151px;*/
+}
+
+.logo{
+	background-position: 0 0;
+	/*width: 144px;*/
+	/*height: 187px;*/
+}
+
+.typo{
+	background-position: -895.0000305175781px 0;
+	/*width: 144px;*/
+	/*height: 151px;*/
+}
+
+.comment{
+	background-position: -298px 0;
+	/*width: 145px;*/
+	/*height: 150px;*/
+}
+
+.comment.active{
+	background-position: -298px -200.0000114440918px ;
+	/*width: 144px;*/
+	/*height: 151px;*/
+}
+
+.contact{
+	background-position: -150px 0;
+	/*width: 144px;*/
+	/*height: 151px;*/
+}
+
+.contact.active{
+	background-position: -150.00003051757812px -197.99999618530273px ;
+	/*width: 144px;*/
+	/*height: 152px;*/
+}
+
+.faq{
+	background-position: -447.0000305175781px 0;
+	/*width: 144px;*/
+	/*height: 150px;*/
+}
+
+.faq.active{
+	background-position: -448.00006103515625px -197.99999618530273px ;
+	/*width: 144px;*/
+	/*height: 152px;*/
+}
+
+.help{
+	background-position: -746.0000305175781px 0;
+	/*width: 145px;*/
+	/*height: 150px;*/
+}
+
+.help.active{
+	background-position: -747px -200.00002670288086px ;
+	/*width: 145px;*/
+	/*height: 151px;*/
+}
+
